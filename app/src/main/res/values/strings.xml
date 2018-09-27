@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScheduleBook</string>
+    <string name="create_text">register</string>
+    <string name="read_text">Read</string>
+    <string name="update_text">Update</string>
+    <string name="delete_text">Delete</string>
+    <string name="db_test_text">Database Test</string>
+    <string name="back_text">Go back</string>
+    <string name="date_text">Date</string>
+    <string name="title_hint_text">Enter title</string>
+    <string name="detail_hint_text">Enter detail</string>
+</resources>
